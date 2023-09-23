@@ -40,7 +40,7 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/mann5"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofficial&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/mann5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofficial&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/mann5"><img src="https://github-readme-stats.vercel.app/api?username=mann5&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/mann5"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mann5&theme=radical&layout=compact"></a></p> 
 
 
